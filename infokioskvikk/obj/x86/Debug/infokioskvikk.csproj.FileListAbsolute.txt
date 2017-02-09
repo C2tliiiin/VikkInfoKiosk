@@ -210,3 +210,4 @@ c:\users\catlin.magi\documents\visual studio 2015\Projects\infokioskvikk\infokio
 c:\users\catlin.magi\documents\visual studio 2015\Projects\infokioskvikk\infokioskvikk\obj\x86\Debug\Pages\Tunniplaan.xbf
 c:\users\catlin.magi\documents\visual studio 2015\Projects\infokioskvikk\infokioskvikk\obj\x86\Debug\Pages\Uudised.xbf
 c:\users\catlin.magi\documents\visual studio 2015\Projects\infokioskvikk\infokioskvikk\obj\x86\Debug\Pages\Avaleht.xbf
+c:\users\catlin.magi\documents\visual studio 2015\Projects\infokioskvikk\infokioskvikk\bin\x86\Debug\Newtonsoft.Json.dll
